@@ -4,14 +4,10 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-
-## Overview
-The challenge is to make a NFT preview component from scratch using HTML & CSS.
 
 ### The challenge
 
